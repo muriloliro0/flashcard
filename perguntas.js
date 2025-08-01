@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz a expressão "Quem não tem cão, caça como gato" em inglês?'
-    '"There is more than one way to skin a cat.''
+    'Como se diz a expressão "Quem não tem cão, caça como gato" em inglês?',
+    '"There is more than one way to skin a cat." '
 )
