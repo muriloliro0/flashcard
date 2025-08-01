@@ -1,7 +1,7 @@
 criaCartao(
     'Música',
-    'Qual o tom relativo de Dó?',
-    'Lá.'
+    'Qual o tom relativo de Dó maior?',
+    'Lá menor.'
 )
 
 criaCartao(
